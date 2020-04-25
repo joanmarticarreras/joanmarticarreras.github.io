@@ -29,13 +29,13 @@ Work experience
   * Topic: Microbiology, data science, bioinformatics, bioremediation
   * Supervisor: prof. dr. Silvia G. Acinas and dr. Pablo Sánchez Fernández
 
- * Jun 2014 - Jul 2014: Freelance researcher
+* Jun 2014 - Jul 2014: Freelance researcher
   * Independent service provider
   * Institut de Ciència i Tecnologia Ambiental (ICTA)
   * Topic: Genetics, plague control, phylogenetics
   * Supervisor: prof. dr. Victor Sarto i Monteys
   
- * Feb 2014 - Jun 2015: Research assistant
+* Feb 2014 - Jun 2015: Research assistant
   * Scholarship for undergraduate bachelor trainship
   * Universitat Autònoma de Barcelona
   * Topic: Genetics, molecular evolution, molecular biology
