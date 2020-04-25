@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Genetics, Universitat Autònoma de Barcelona (Barcelona, Spain), 2011-2015
-* M.S. in Bioinformatics for Health Science, Universitat Pompeu Fabra & Universitat de Barcelona (Barcelona, Spain), 2015-2017
-* Ph.D in Biomedical Sciences (Virology), KU Leuven (Leuven, Belgium), 2017 - Present
+* 2017 - Present: **Ph.D in Biomedical Sciences (Virology)**
+  * KU Leuven (Leuven, Belgium)
+* 2015-2017: **M.S. in Bioinformatics for Health Science**
+  * Universitat Pompeu Fabra & Universitat de Barcelona (Barcelona, Spain)
+* 2011-2015: **B.S. in Genetics**
+  * Universitat Autònoma de Barcelona (Barcelona, Spain) 
+ 
+
 
 Work experience
 ======
