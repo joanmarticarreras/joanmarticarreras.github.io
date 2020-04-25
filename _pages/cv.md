@@ -17,15 +17,29 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sep 2017 - : PhD candidate
+  * Employee, PhD candidate
+  * KU Leuven
+  * Topic: Virology, sequencing, bioinformatics, pathogenicity
+  * Supervisor: prof. dr. Piet Maes and prof. dr. Marc Van Ranst
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2016 - Jul 2017: Research assistant
+  * Employee, Master thesis
+  * Institut de Ciències del Mar (ICM-CSIC)
+  * Topic: Microbiology, data science, bioinformatics, bioremediation
+  * Supervisor: prof. dr. Silvia G. Acinas and dr. Pablo Sánchez Fernández
+
+ * Jun 2014 - Jul 2014: Freelance researcher
+  * Independent service provider
+  * Institut de Ciència i Tecnologia Ambiental (ICTA)
+  * Topic: Genetics, plague control, phylogenetics
+  * Supervisor: prof. dr. Victor Sarto i Monteys
+  
+ * Feb 2014 - Jun 2015: Research assistant
+  * Scholarship for undergraduate bachelor trainship
+  * Universitat Autònoma de Barcelona
+  * Topic: Genetics, molecular evolution, molecular biology
+  * Supervisor: prof. dr. Maria Pilar Garcia Guerreiro
   
 Skills
 ======
