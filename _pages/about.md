@@ -10,6 +10,9 @@ redirect_from:
 
 Joan Martí-Carreras (or Joan Martí Carreras) is a PhD candidate at [Zoonotic Infectious Diseases Unit](https://rega.kuleuven.be/cev/zoonotic-infectious-diseases-unit), at the [Rega Instituut](https://rega.kuleuven.be/), [KU Leuven](https://www.kuleuven.be/kuleuven/); under the supervision of [Prof. Piet Maes](https://www.researchgate.net/profile/Piet_Maes) and [Prof. Marc van Ranst](https://en.wikipedia.org/wiki/Marc_Van_Ranst). He holds a Marie Skłodowska-Curie Action (MSCA) Initial Training Network (ITN) scholarship, as Early-stage researcher 15 at [HONOURs](https://honours.eu/) for enhancing full-length genomic NGS assembly of viral pathogens with large genomes (> 100 kbp).
 
+
+Find here a copy of his [most recent CV (short or buisness)](https://joanmarticarreras.github.io/files/joan_marti_carreras_buisness_cv.pdf) and a [complete summary of his studies and interests(long or academic)](https://joanmarticarreras.github.io/files/joan_marti_carreras_scholar_cv.pdf).
+
 Biography
 ======
 
